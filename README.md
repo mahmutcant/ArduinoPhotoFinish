@@ -23,6 +23,6 @@ Program works for all arduino cards
     digitalWrite(yLed , LOW);
   } 
 ```
-## The Example Scheme
+## Example Scheme
 
 ![image](Scheme.png)
