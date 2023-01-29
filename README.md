@@ -25,4 +25,4 @@ Program works for all arduino cards
 ```
 ## The Example Scheme
 
-![image](Ads%C4%B1z.png)
+![image](Scheme.png)
